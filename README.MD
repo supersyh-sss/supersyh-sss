@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/supersyh-sss/supersyh-sss/main/assets/p.gif" width="450" height="226">
 <br>
 
-### 🤖 Agent Dev · 🌾 Stardew Valley Maximalist
+### 🤖 Agent Dev · 🌾 Stardew Valley **Enthusiast**
 
 <img src="https://skillicons.dev/icons?i=python,java,ts&theme=light" />
 
