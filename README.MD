@@ -1,6 +1,6 @@
 <div align="center">
 <!-- 窄条像素风 banner，高度限制 -->
-<img src="https://raw.githubusercontent.com/supersyh-sss/supersyh-sss/main/assets/p.gif" width="100%" height="50">
+<img src="https://raw.githubusercontent.com/supersyh-sss/supersyh-sss/main/assets/p.gif" width="50%" height="50">
 
 
 <div align="center">
