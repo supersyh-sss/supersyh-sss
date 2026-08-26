@@ -1,11 +1,8 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/supersyh-sss/supersyh-sss/main/assets/p.gif" width="450" height="226">
-
 <br>
 
 ### 🤖 Agent Dev · 🌾 Stardew Valley Maximalist
-
-<br>
 
 <img src="https://skillicons.dev/icons?i=python,java,ts&theme=light" />
 
@@ -16,6 +13,6 @@
 
 <br>
 
-<pre><i>grow slow, build deep.</i></pre>
+<i>grow slow, build deep.</i>
 
 </div>
