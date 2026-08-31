@@ -16,3 +16,9 @@
 <i>grow slow, build deep.</i>
 
 </div>
+
+### 📦 Open Source Contributions
+
+[![awesome-dsh-plugin Contributor](https://img.shields.io/badge/awesome--dsh--plugin-Contributor-1DA1F2?style=flat-square&logo=github)](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
+
+[dsh-voice-assistant](https://github.com/supersyh-sss/dsh-voice-assistant) · in the [awesome-dsh-plugin registry](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/blob/main/data/plugins/supersyh-sss__dsh-voice-assistant.yml)
