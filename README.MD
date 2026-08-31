@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/supersyh-sss/supersyh-sss/main/assets/p.gif" width="450" height="226">
-
+---
 ### 🤖 Agent Dev · 🌾 Stardew Valley Enthusiast
 
 <img src="https://skillicons.dev/icons?i=python,java,ts&theme=light" />
@@ -14,9 +14,9 @@
 </div>
 
 ---
-
+<div align="center">
 ### 📦 Open Source Contributions
-
+</div>
 <div align="center">
 
 [![awesome-dsh-plugin Contributor](https://img.shields.io/badge/awesome--dsh--plugin-Contributor-1DA1F2?style=flat-square&logo=github)](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
